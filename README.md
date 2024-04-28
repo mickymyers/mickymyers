@@ -5,5 +5,6 @@ I'm currently learninig **Python** and **Lua**.
 My favorite programming languages are **C** and **Rust**.
 
 #### You can contact me via:
-* email: `mickymyers@tuta.io`
-* matrix: `@mickymyers:nitro.chat`
+* Email: `mickymyers@tuta.io`
+* Matrix: `@mickymyers:nitro.chat`
+* Jabber/XMPP: `mickymyers@thesecure.biz`
